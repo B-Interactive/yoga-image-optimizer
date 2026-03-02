@@ -2,7 +2,6 @@ import pathlib
 
 import nox
 
-
 PYTHON_FILES = [
     "yoga_image_optimizer",
     "setup.py",

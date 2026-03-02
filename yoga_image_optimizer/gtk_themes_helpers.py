@@ -55,7 +55,6 @@ The following code was inspired by GTK Inspector and Inkscape sources:
 * https://gitlab.com/inkscape/inkscape/-/blob/53780867/src/ui/themes.cpp#L69
 """
 
-
 from pathlib import Path
 
 from gi.repository import Gtk, Gio, GLib

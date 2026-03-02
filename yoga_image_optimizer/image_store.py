@@ -12,7 +12,6 @@ from .image_formats import IMAGES_FORMATS
 from .translation import format_string
 from .translation import gettext as _
 
-
 _PANGO_MARKUP_SUPPORTS_RELATIVE_SIZE = (
     Pango.VERSION_MAJOR >= 1 and Pango.VERSION_MINOR >= 49
 )

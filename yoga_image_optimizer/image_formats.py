@@ -17,7 +17,6 @@ Supported image formats.
 import pathlib
 from .translation import gettext as _
 
-
 IMAGES_FORMATS = {
     # ==== Formats supported as output ====
     "jpeg": {

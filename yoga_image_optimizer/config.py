@@ -5,7 +5,6 @@ from configparser import ConfigParser
 
 from . import APPLICATION_ID
 
-
 OUTPUT_PATTERN_NEXT_TO_FILE = "next-to-file"
 OUTPUT_PATTERN_SUBFOLDER = "subfolder"
 OUTPUT_PATTERN_CUSTOM = "custom"

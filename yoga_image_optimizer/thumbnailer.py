@@ -10,7 +10,6 @@ from gi.repository import GdkPixbuf
 from . import helpers
 from .data_helpers import find_data_path
 
-
 THUMBNAIL_BROKEN = GdkPixbuf.Pixbuf.new_from_file(
     find_data_path("images/thumbnail_broken.svg")
 )
